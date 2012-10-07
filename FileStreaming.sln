@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStreaming", "FileStreaming\FileStreaming.csproj", "{F23EBFB9-1C5D-47CB-8D2A-B39FAAB699CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStreaming.Web", "FileStreaming.Web\FileStreaming.Web.csproj", "{E5618B6D-2B2B-4673-A484-E36C24214618}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F23EBFB9-1C5D-47CB-8D2A-B39FAAB699CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23EBFB9-1C5D-47CB-8D2A-B39FAAB699CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23EBFB9-1C5D-47CB-8D2A-B39FAAB699CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23EBFB9-1C5D-47CB-8D2A-B39FAAB699CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5618B6D-2B2B-4673-A484-E36C24214618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5618B6D-2B2B-4673-A484-E36C24214618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5618B6D-2B2B-4673-A484-E36C24214618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5618B6D-2B2B-4673-A484-E36C24214618}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
